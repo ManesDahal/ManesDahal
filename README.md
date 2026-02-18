@@ -19,4 +19,4 @@
 Become job-ready for an entry-level cybersecurity role
 
 ## 📫 Connect
-- LinkedIn: (we’ll add later)
+- LinkedIn: https://www.linkedin.com/in/manish-dahal-072249212/
