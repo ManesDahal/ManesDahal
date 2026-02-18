@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @ManesDahal
-- 👀 I’m interested in Python, Javascript
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on  projects involving Python, Javascript, or Data Science.
-- 📫 How to reach me https://www.linkedin.com/in/manish-dahal-072249212/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once coded a Python script to automate my daily coffee brewing routine!
+# Hi, I'm Manish Dahal 👋
 
-<!---
-ManesDahal/ManesDahal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎯 Aspiring Cybersecurity Analyst starting from scratch  
+🛡️ Focused on SOC, Linux, Networking & Blue Team skills  
+📍 Based in the United States  
+
+## 🔧 Skills (Learning & Practicing)
+- Linux fundamentals
+- Networking basics (TCP/IP, DNS, HTTP)
+- Cybersecurity fundamentals
+- Git & GitHub
+
+## 📂 Projects
+- SOC Lab (In Progress)
+- Linux Hardening Practice
+- Network Monitoring Basics
+
+## 📈 Current Goal
+Become job-ready for an entry-level cybersecurity role
+
+## 📫 Connect
+- LinkedIn: (we’ll add later)
